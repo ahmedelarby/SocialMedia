@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_bottom_navagtion"
+    app:startDestination="@id/homeAccount">
+
+    <fragment
+        android:id="@+id/homeAccount"
+        android:name="com.test.socialmedia.HomeAccount"
+        android:label="fragment_home_account"
+        tools:layout="@layout/fragment_home_account" >
+        <action
+            android:id="@+id/action_homeAccount_to_createPost2"
+            app:destination="@id/createPost2"
+            app:popEnterAnim="@anim/dwon"
+            app:launchSingleTop="true" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/collocation"
+        android:name="com.test.socialmedia.collocation"
+        android:label="fragment_collocation"
+        tools:layout="@layout/fragment_collocation" />
+    <fragment
+        android:id="@+id/createPost2"
+
+        android:name="com.test.socialmedia.CreatePost"
+        android:label="fragment_create_post"
+        tools:layout="@layout/fragment_create_post" />
+</navigation>

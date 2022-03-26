@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="choose_gender">Choose gender *</string>
+    <string name="choose_country">Choose country *</string>
+    <string name="choose_city">Choose city *</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="do_you_have_an_account">Do you have an account...?</string>
+    <string name="forget_password">forget password ...?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_a_new_account">create a new account ...?</string>
+    <string name="or">Or</string>
+    <string name="collocation">collocation</string>
+    <string name="home">Home</string>
+    <string name="massage">massage</string>
+</resources>

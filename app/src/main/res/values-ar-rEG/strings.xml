@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">chat</string>
+    <string name="first_name">الاسم الاول </string>
+    <string name="last_name">الاسم الاخير</string>
+    <string name="email">البريد الالكتروني / الاميل </string>
+    <string name="password">كلمه المرور</string>
+    <string name="choose_gender">اختيار الجنس *</string>
+    <string name="choose_country">اختيار الدوله *</string>
+    <string name="choose_city">اختيار المدينه *</string>
+    <string name="sign_up">تسجيل</string>
+    <string name="do_you_have_an_account">يوجد لديك حساب ...?</string>
+    <string name="forget_password">نسيت كلمه المرور ...؟</string>
+    <string name="sign_in"> دخول  </string>
+    <string name="create_a_new_account">تسجيل حساب جديد ...؟</string>
+    <string name="or">أو</string>
+    <string name="collocation">collocation</string>
+    <string name="home">Home</string>
+    <string name="massage">massage</string>
+</resources>
